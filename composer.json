@@ -1,5 +1,5 @@
 {
-  "name": "oxid-esales/katmodul",
+  "name": "suedlicht/suedkatmodul",
   "description": "Cpoy Produktkategorien.",
   "type": "oxideshop-module",
   "keywords": [
@@ -14,7 +14,7 @@
   ],
   "extra": {
     "oxideshop": {
-      "target-directory": "sued/katmodul"
+      "target-directory": "sued/suedkatmodul"
     }
   },
   "require": {
@@ -22,7 +22,7 @@
     },   
   "autoload": {
     "psr-4": {
-      "OxidEsales\\KatmodulModule\\": "../../../source/modules/sued/katmodul"
+      "OxidEsales\\KatmodulModule\\": "../../../source/modules/sued/suedkatmodul"
     }
   }
 }
