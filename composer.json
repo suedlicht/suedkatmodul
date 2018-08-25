@@ -1,0 +1,28 @@
+{
+  "name": "oxid-esales/katmodul",
+  "description": "Cpoy Produktkategorien.",
+  "type": "oxideshop-module",
+  "keywords": [
+    "oxid",
+    "katmodul",
+    "admin"
+  ],
+  "homepage": "https://suedlicht.com",
+  "version": "1.1.0",
+  "license": [
+    "GNU"
+  ],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "sued/katmodul"
+    }
+  },
+  "require": {
+        "php": ">=5.6"
+    },   
+  "autoload": {
+    "psr-4": {
+      "OxidEsales\\KatmodulModule\\": "../../../source/modules/sued/katmodul"
+    }
+  }
+}
