@@ -4,7 +4,7 @@
 $sMetadataVersion = '2.0';
 $aModule = array(
     'id'           => 'suedkatmodul',
-    'title'        => 'Produkt Kategorieliste Hersteller Baujahr ',
+    'title'        => 'Produkt Kategorieliste Hersteller Baujahr Varianten',
         'description'  => array(
         'de' => 'Modul für Kategorie Hersteller Baujahr.',
         'en' => 'Module for Categoies Manufactors.',
