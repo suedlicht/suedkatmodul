@@ -14,7 +14,7 @@
   ],
   "extra": {
     "oxideshop": {
-      "target-directory": "sued/suedkatmodul"
+      "target-directory": "suedlicht/suedkatmodul"
     }
   },
   "require": {
@@ -22,7 +22,7 @@
     },   
   "autoload": {
     "psr-4": {
-      "OxidEsales\\KatmodulModule\\": "../../../source/modules/sued/suedkatmodul"
+      "OxidEsales\\suedkatmodul\\": "../../../source/modules/suedlicht/suedkatmodul"
     }
   }
 }
